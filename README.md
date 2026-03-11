@@ -1,49 +1,92 @@
-﻿# ACTIVA ONE
+﻿# \# ACTIVAlabs
 
-Plataforma SaaS unificada para gestiÃ³n comercial, marketing, servicio al cliente y automatizaciÃ³n con inteligencia artificial.
+# 
 
-## Objetivo
+# ACTIVALABS es una plataforma SaaS modular para automatización comercial, marketing, servicio al cliente y agentes de inteligencia artificial.
 
-Construir una plataforma SaaS modular que permita a pequeÃ±as y medianas empresas gestionar ventas, marketing, soporte y operaciones desde un solo sistema.
+# 
 
-## MÃ³dulos principales
+# \## Arquitectura
 
-### ACTIVA SALES OS
-CRM y gestiÃ³n comercial.
+# 
 
-### ACTIVA SERVICE
-Soporte y tickets.
+# La plataforma está diseñada como un sistema SaaS multi-tenant basado en microservicios.
 
-### ACTIVA MARKETING
-AutomatizaciÃ³n y campaÃ±as.
+# 
 
-### ACTIVA SOCIAL
-GestiÃ³n de redes sociales.
+# Componentes principales:
 
-### ACTIVA INSIGHTS
-AnalÃ­tica y dashboards.
+# 
 
-### ACTIVA AI
-Agentes de inteligencia artificial.
+# \- ACTIVAlabs Core Platform
 
-## Infraestructura
+# \- ACTIVAlabs Sales OS
 
-- Repositorio: GitHub
-- Deploy: Railway
-- Base de datos: PostgreSQL
-- Frontend: React / Next.js
-- Backend: Node.js
+# \- ACTIVAlabs CXM Marketing
 
-## Vertical inicial
+# \- ACTIVAlabs AI Agents
 
-### ACTIVA FENESTRATION
-SoluciÃ³n especializada para empresas de ventanas y puertas.
+# \- ACTIVAlabs Integrations
 
-## Normas ISO objetivo
+# \- ACTIVAlabs Vertical Solutions
 
-- ISO 27001 â€” Seguridad de la informaciÃ³n
-- ISO 27701 â€” Privacidad
-- ISO 42001 â€” GestiÃ³n de IA
-- ISO 20000 â€” GestiÃ³n de servicios TI
-- ISO 22301 â€” Continuidad del negocio
-- ISO 9001 â€” GestiÃ³n de calidad
+# 
+
+# \## Infraestructura
+
+# 
+
+# Stack tecnológico:
+
+# 
+
+# Backend:
+
+# Node.js
+
+# 
+
+# Base de datos:
+
+# PostgreSQL
+
+# 
+
+# Infraestructura:
+
+# Railway
+
+# 
+
+# Repositorio:
+
+# GitHub
+
+# 
+
+# \## Objetivo
+
+# 
+
+# Construir una plataforma SaaS similar a HubSpot o Sprinklr pero enfocada en automatización empresarial y agentes de inteligencia artificial.
+
+# 
+
+# \## Vertical inicial
+
+# 
+
+# Fenestration
+
+# 
+
+# Sistema especializado para empresas de ventanas y puertas.
+
+# 
+
+# \## Dominio
+
+# 
+
+# https://activalabs.ia
+
